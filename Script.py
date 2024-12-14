@@ -34,7 +34,7 @@ itclass script(object):
 ⌾ ꜱᴇʀᴠᴇʀ : ʀᴇɴᴅᴇʀ 
 ⌾ ᴅᴀᴛᴀʙᴀꜱᴇ : ᴍᴏɴɢᴏᴅʙ 
 ⌾ ʙᴜɪʟᴅ ꜱᴛᴀᴛᴜꜱ : ᴠ1.0.2[ʙᴇᴛᴀ]
-⌾ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href='https://t.me/AM_FILMS'>@ᴀᴍ_ꜰɪʟᴍꜱ</a> </b>"""
+⌾ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href='https://t.me/DVITTALKANNADAMOVIE'>@DVITTALKANNADAMOVIE</a> </b>"""
 
     SOURCE_TXT = """<b>⎙ ꜱᴏᴜʀᴄᴇ ⎙
 ꜱᴘᴇᴄɪᴀʟ ᴛʜᴀɴᴋꜱ ᴛᴏ ᴇᴠᴀᴍᴀʀɪᴀ ᴅᴇᴠꜱ ᴀɴᴅ ᴇᴠᴇʀʏᴏɴᴇ ɪɴ ᴛʜɪꜱ ᴊᴏᴜʀɴᴇʏ 
