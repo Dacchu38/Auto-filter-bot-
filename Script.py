@@ -63,7 +63,7 @@ itclass script(object):
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ</b>
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<b>[Button Text](buttonurl:https://t.me/AM_FILMS)</b>
+<b>[Button Text](buttonurl:https://t.me/DVITTALKANNADAMOVIE)</b>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <b>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</b>"""
 
@@ -205,7 +205,7 @@ Message <b>: {}</b>"""
 
 🖇 <em>File Size</em>: <code>{file_size}</code> 
 
-❤️‍🔥 </i>Join</i> [ADHOLOKAM](https://t.me/AM_FILMS)  
+❤️‍🔥 </i>Join</i> [ADHOLOKAM](https://t.me/DVITTALKANNADAMOVIE)  
 
 🖥 <i>Requests</i> - ||@raixpiro_bot|| """
 
