@@ -5,7 +5,8 @@ COPY requirements.txt /requirements.txt
 
 RUN cd /
 RUN pip install -U pip && pip install -U -r requirements.txt
-WORKDIR /app
+RUN mdkir/Advance-Auto-Filter
+WORKDIR /Advance-Auto-Filter
 
 COPY . .
 CMD ["python", "bot.py"]
